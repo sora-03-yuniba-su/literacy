@@ -1,0 +1,25 @@
+<table>
+    <tr>
+        <th>名前</th> <th>年齢</th> <th>職業</th>
+    </tr>
+    <tr>
+        <td>田中</td>
+        <td>30</td>
+        <td>エンジニア</td>
+    </tr>
+    <tr>
+        <td>佐藤</td>
+        <td>25</td>
+        <td>デザイナー</td>
+    </tr>
+    <tr>
+        <td>鈴木</td>
+        <td>28</td>
+        <td>マーケティング</td>
+    </tr>
+    <tr>
+        <td>高橋</td>
+        <td>35</td>
+        <td>プロジェクトマネージャー</td>   
+    </tr>
+</table>
